@@ -54,11 +54,11 @@ I read YouTube comments for a month before building this. The pattern was everyw
 
 Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically. Not generically. The prompt engineering problem here is harder than it looks — the difference between "here's a counterargument" and "here's exactly where your reasoning breaks" is significant. Still improving it.
 
-**[Velocity](https://ursvelocity.lovable.app/)** — _digital products, automated._
+**[Velocity](https://ursvelocity.lovable.app/)** — _businesses for small creators, automated._
 
 Creators know how to make content. Most don't know how to build a business. Velocity analyzes audience pain points and turns them into validated product ideas, pricing strategy, and launch plans.
 
-**[LocalBiz Copilot](https://localbiz-copilot.lovable.app/)** — _business, optimised for growth._
+**[LocalBiz Copilot](https://localbiz-copilot.lovable.app/)** — _local businesses, optimised for growth._
 
 Building the other products taught me something: AI is a better long-term decision-maker than instinct, because today's decision compounds into tomorrow's outcome — and most people, especially small business owners, only have time to think about today.
 
@@ -117,9 +117,12 @@ I was focused on what I could have become if I'd passed. The journal reminded me
 
 That shift — from external outcome to internal identity — is the most useful thing I've ever learned. And I learned it from reading my own words back to myself.
 
-The other thing six years of writing to yourself does: it makes you better at understanding other people. Not because you become more empathetic in an abstract way. Because you've spent years noticing your own patterns — how you reason, how you feel, how you get stuck — and that noticing transfers. You start recognising the same patterns in other people. When someone is stuck, you understand what kind of stuck it is. When someone is hurting, you don't project. You actually listen.
+The other thing six years of writing to yourself does: it makes you better at understanding other people. Not because you become more empathetic in an abstract way. Because you've spent years noticing your own patterns — how you reason, how you feel, how you get stuck — and that noticing transfers. You start recognising the same patterns in other people. When someone is stuck, you understand what kind of stuck it is. When someone is hurting, you don't react. You actually listen. 
 
-People around me started noticing this before I did. The conversations got more meaningful. The advice landed differently. I didn't have a framework for it — I was just being helpful the way I've always been by nature. But I think the journalling is what made it precise.
+You remain patient and calm, which life hits harder.
+
+People around me started noticing, the conversations got more meaningful. The advice landed differently. I didn't have a framework for it — I was just being helpful the way I've always been by nature. But I think the journalling is what made it precise.
+
 It's also, I've realised, why I build what I build. 
 
 UNTRAP came from watching people who didn't know themselves well enough to choose their own path. 
@@ -210,7 +213,7 @@ Writing is how I find out what I actually think. If I can't write it clearly, I 
 
 ## 11 · Now
 
-*Updated June 2026.*
+*Updated July 2026.*
 
 Second year, B.Tech IT, SGSITS Indore.
 
@@ -226,4 +229,4 @@ Looking for a team building real production AI — not demos, not prototypes tha
 
 Tell me what you're building.
 
-*This document is wrong about some things and incomplete about others. That's the point. Last meaningfully updated: June 2026.*
+*This document is wrong about some things and incomplete about others. That's the point. Last meaningfully updated: 03 July 2026.*
