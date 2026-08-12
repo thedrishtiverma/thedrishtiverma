@@ -50,7 +50,7 @@ I watched engineering students in my college — my circle, my generation — sp
 
 I read YouTube comments for a month before building this. The pattern was everywhere: engineering students, night before exam, 4-hour playlist, no time. notes.ai converts any lecture URL into chapter-organized notes and revision sheets. The problem wasn't information — it was time.
 
-**[Sparr](https://sparr-ai.lovable.app/)** — _a partner in thinking._
+**[Sparr](https://sparr.in/)** — _a partner in thinking._
 
 Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically. Not generically. The prompt engineering problem here is harder than it looks — the difference between "here's a counterargument" and "here's exactly where your reasoning breaks" is significant. Still improving it.
 
