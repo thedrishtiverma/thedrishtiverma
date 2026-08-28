@@ -47,7 +47,11 @@ The most personal thing I'm working on. If UNTRAP is for other people figuring o
 
 Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically. Not generically. The prompt engineering problem here is harder than it looks — the difference between "here's a counterargument" and "here's exactly where your reasoning breaks" is significant. Still improving it.
 
-**[KheloLocal](https://khelolocal.in/)** - _Your City's Sports Network_
+**[KheloLocal](https://khelolocal.lovable.app/)** - _Your City's Sports Network_
+
+**[The Signature Experience](https://thesignatureexperience.lovable.app/)** - _Crafted personally by Drishti_
+
+**[YOU, For Anam](https://you-for-anam.lovable.app/)** -  _Made For Her_
 
 **[UNTRAP](https://untrap.lovable.app/)** — _for a student, by a student._
 
@@ -202,7 +206,7 @@ Things I'm actively testing and haven't resolved:
 
 **NCC** 
 
-> ### **CORPORAL at NCC SGSITS**
+> #### **CORPORAL at NCC SGSITS**
 
 Four semesters managing drill schedules, camps, conducting events, performances in between.
 
@@ -224,8 +228,20 @@ Researching and actively building it's working prototype.
 
 Third year, B.Tech IT, SGSITS Indore.
 
-**6 live products.** 
-ALL under active construction, the most personal of all of them.
+> #### **9 live projects.** 
+
+Links - 
+
+1. [Drishti's Website](https://thedrishtiverma.com/)
+2. [KheloLocal](https://khelolocal.lovable.app/)
+3. [Sparr](https://sparr.in/)
+4. [The Signature Experience](https://thesignatureexperience.lovable.app/)
+5. [YOU, For Anam](https://you-for-anam.lovable.app/)
+6. [Velocity](https://ursvelocity.lovable.app/)
+8. [notes.ai](https://notes-ai-dev.lovable.app/)
+9. [UNTRAP](https://untrap.lovable.app/)
+10. [LocalBiz Copilot](https://localbiz-copilot.lovable.app/)
+
 
 Learning RAG architecture and how to train AI on personal data. Getting faster at understanding systems I didn't build.
 
@@ -239,4 +255,4 @@ Tell me what you're building.
 
 This document is wrong about some things and incomplete about others. That's the point. 
 
-*Last meaningfully updated: 28 Augusy 2026.*
+*Last meaningfully updated: 28 August 2026.*
