@@ -47,7 +47,7 @@ The most personal thing I'm working on. If UNTRAP is for other people figuring o
 
 Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically. Not generically. The prompt engineering problem here is harder than it looks — the difference between "here's a counterargument" and "here's exactly where your reasoning breaks" is significant. Still improving it.
 
-**[KheloLocal](https://khelolocal.lovable.app/)** - _Your City's Sports Network_
+**[KheloLocal](https://khelolocal.in/)** - _Your City's Sports Network_
 
 **[The Signature Experience](https://thesignatureexperience.lovable.app/)** - _Crafted personally by Drishti_
 
@@ -233,7 +233,7 @@ Third year, B.Tech IT, SGSITS Indore.
 Links - 
 
 1. [Drishti's Website](https://thedrishtiverma.com/)
-2. [KheloLocal](https://khelolocal.lovable.app/)
+2. [KheloLocal](https://www.khelolocal.in/)
 3. [Sparr](https://sparr.in/)
 4. [The Signature Experience](https://thesignatureexperience.lovable.app/)
 5. [YOU, For Anam](https://you-for-anam.lovable.app/)
