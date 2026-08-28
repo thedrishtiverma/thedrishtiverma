@@ -1,4 +1,3 @@
-
 # Drishti Verma
 
 > **I build software by paying unusual attention to people.**
@@ -40,6 +39,16 @@ I've been building toward that ever since.
 
 ## 01 · Projects I'm Building
 
+**[thedrishtiverma.com](https://thedrishtiverma.com)** — _Actively building!_
+
+The most personal thing I'm working on. If UNTRAP is for other people figuring out who they are, this is me doing the same thing — except I'm building the mirror myself. More in Current Obsession, below.
+
+**[Sparr](https://sparr.in/)** — _a partner in thinking._
+
+Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically. Not generically. The prompt engineering problem here is harder than it looks — the difference between "here's a counterargument" and "here's exactly where your reasoning breaks" is significant. Still improving it.
+
+**[KheloLocal](https://khelolocal.in/)** - _Your City's Sports Network_
+
 **[UNTRAP](https://untrap.lovable.app/)** — _for a student, by a student._
 
 I watched engineering students in my college — my circle, my generation — spend years building someone else's future. Not because they were lazy. Because nobody showed them there was a door. UNTRAP is LLM-powered weekly roadmaps for students who know they're in the wrong place but don't know how to get out.
@@ -50,10 +59,6 @@ I watched engineering students in my college — my circle, my generation — sp
 
 I read YouTube comments for a month before building this. The pattern was everywhere: engineering students, night before exam, 4-hour playlist, no time. notes.ai converts any lecture URL into chapter-organized notes and revision sheets. The problem wasn't information — it was time.
 
-**[Sparr](https://sparr.in/)** — _a partner in thinking._
-
-Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically. Not generically. The prompt engineering problem here is harder than it looks — the difference between "here's a counterargument" and "here's exactly where your reasoning breaks" is significant. Still improving it.
-
 **[Velocity](https://ursvelocity.lovable.app/)** — _businesses for small creators, automated._
 
 Creators know how to make content. Most don't know how to build a business. Velocity analyzes audience pain points and turns them into validated product ideas, pricing strategy, and launch plans.
@@ -63,10 +68,6 @@ Creators know how to make content. Most don't know how to build a business. Velo
 Building the other products taught me something: AI is a better long-term decision-maker than instinct, because today's decision compounds into tomorrow's outcome — and most people, especially small business owners, only have time to think about today.
 
 LocalBiz Copilot makes that kind of decision-making accessible to people who'd never call themselves "data-driven." Simple UI, built for someone running a shop. Underneath, it's reasoning through data and logic to make probabilistic calls — and it explains what each decision actually means for the business down the line, not just what to do right now.
-
-**[thedrishtiverma.com](https://thedrishtiverma.com)** — _Actively building!_
-
-The most personal thing I'm working on. If UNTRAP is for other people figuring out who they are, this is me doing the same thing — except I'm building the mirror myself. More in Current Obsession, below.
 
 ## 02 · How I Think
 
