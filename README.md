@@ -200,7 +200,9 @@ Things I'm actively testing and haven't resolved:
 - Represented RGPV University.
 - Gold medalist at state, nodal, and college level. 
 
-**NCC Cadet** 
+**NCC** 
+
+> ### **CORPORAL at NCC SGSITS**
 
 Four semesters managing drill schedules, camps, conducting events, performances in between.
 
@@ -212,17 +214,22 @@ I publish articles on current political-analysis of India on Medium.
 
 Writing is how I find out what I actually think. If I can't write it clearly, I don't understand it yet.
 
+**SIH**
+
+Selected in SIH'26 internal round at college.
+
+Researching and actively building it's working prototype.
+
 ## 11 · Now
 
-*Updated July 2026.*
+Third year, B.Tech IT, SGSITS Indore.
 
-Second year, B.Tech IT, SGSITS Indore.
-
-5 live products. One under active construction, the most personal of all of them.
+**6 live products.** 
+ALL under active construction, the most personal of all of them.
 
 Learning RAG architecture and how to train AI on personal data. Getting faster at understanding systems I didn't build.
 
-Looking for a team building real production AI — not demos, not prototypes that never ship, not glorified prompt engineering. Somewhere the work is honest and the speed is real.
+> ### Looking for a team building, real production AI — not demos, not prototypes that never ship, not glorified prompt engineering. Somewhere the work is honest and the speed is real.
 
 ## 12 · Contact
 
@@ -230,4 +237,6 @@ Looking for a team building real production AI — not demos, not prototypes tha
 
 Tell me what you're building.
 
-*This document is wrong about some things and incomplete about others. That's the point. Last meaningfully updated: 03 July 2026.*
+This document is wrong about some things and incomplete about others. That's the point. 
+
+*Last meaningfully updated: 28 Augusy 2026.*
