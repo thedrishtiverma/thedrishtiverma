@@ -51,7 +51,7 @@ Submit a hypothesis. Sparr finds the weak assumption and attacks it specifically
 
 **[The Signature Experience](https://thesignatureexperience.lovable.app/)** - _Crafted personally by Drishti_
 
-**[YOU, For Anam](https://you-for-anam.lovable.app/)** -  _Made For Her_
+**[YOU, For Anam](https://you-for-anam.vercel.app/)** -  _Made for her <3_
 
 **[UNTRAP](https://untrap.lovable.app/)** — _for a student, by a student._
 
@@ -189,9 +189,13 @@ Things I'm actively testing and haven't resolved:
 
 > At what point does simplifying a problem for users remove the struggle that actually helps them grow?
 
-## 09 · Books That Changed Me
+## 09 · Part of me, my bestfriend... BOOKS
 
-*[I'm writing this. Filling this space the soonest]*
+**Currently Reading -**
+
+### October Junction
+
+**Book by Divya Prakash Dubey**
 
 ## 10 · Beyond Software
 
