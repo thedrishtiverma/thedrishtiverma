@@ -1,6 +1,6 @@
 # Drishti Verma
 
-> **I build software by paying unusual attention to people.**
+> **I build software solutions by paying unusual attention to people and their problems.**
 
 ## 00 · Story
 
